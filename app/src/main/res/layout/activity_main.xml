@@ -15,7 +15,7 @@
         android:layout_marginTop="7dp"
         android:ems="10"
         android:inputType="text"
-        android:text="jdbc:postgresql://192.168.50.149:5432/stackoverflow"
+        android:text="jdbc:postgresql://192.168.50.19:5432/stackoverflow"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/spinner" />
@@ -38,7 +38,7 @@
         android:layout_marginTop="1dp"
         android:ems="10"
         android:inputType="textPassword"
-        android:text="123"
+        android:text=""
         app:layout_constraintEnd_toEndOf="@+id/username"
         app:layout_constraintStart_toStartOf="@+id/button2"
         app:layout_constraintTop_toBottomOf="@+id/username" />
