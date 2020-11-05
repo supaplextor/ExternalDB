@@ -1,4 +1,4 @@
-Two main sections of code to consider, but first:
+# Two main sections of code to consider
 
 * This is a "skeleton" PoC app.
 * I'm unable to maintain the software. I'm quite out of touch with Java, and Android Studio and I are not friends. Android development for that matter alltogether.
